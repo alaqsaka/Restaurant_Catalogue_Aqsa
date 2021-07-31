@@ -1,0 +1,16 @@
+footer {
+    padding: 16px;
+  }
+   
+  footer p {
+    text-align: center;
+    color: #aaaaaa;
+  }
+   
+  footer p a {
+    color: #FF8A00;
+    text-decoration: none;
+    min-width: 44px;
+    display: inline-block;
+    min-height: 44px;
+  }
